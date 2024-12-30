@@ -48,13 +48,13 @@ function Contact() {
         <h2 className="mb-8 text-3xl font-medium lg:text-4xl">Contact</h2>
         <p className="mb-4 text-lg lg:text-xl">
           Feel free to reach out me via email:{" "}
-          <a href="mailto:david@example.com" className="border-b">
-            david@example.com
+          <a href="akilawijerathna5@gmail.com" className="border-b">
+            akilawijerathna5@gmail.com
           </a>
         </p>
         <div className="mt-8 flex justify-center space-x-6">
           <a
-            href="https://linkedin.com/in/davidstone"
+            href="https://linkedin.com/in/akila-wijerathna-790ba4234"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-icon"
@@ -63,7 +63,7 @@ function Contact() {
             <RiLinkedinBoxFill className="text-3xl" />
           </a>
           <a
-            href="https://github.com/davidstone"
+            href="https://github.com/Akila-Dev97"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-icon"
@@ -72,7 +72,7 @@ function Contact() {
             <RiGithubFill className="text-3xl" />
           </a>
           <a
-            href="https://twitter.com/davidstone"
+            href="https://twitter.com/akila_wijerathna"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-icon"
