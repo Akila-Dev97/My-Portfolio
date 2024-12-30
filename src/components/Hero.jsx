@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import { PROFILE } from "../constants";
 import { RiArrowRightUpLine } from "@remixicon/react";
-import david from "../assets/david.webp";
+import akila from "../assets/akilawijerathna.webp";
 import { gsap } from "gsap";
 
 const Hero = () => {
@@ -73,7 +73,7 @@ const Hero = () => {
         {PROFILE.subheading}
       </p>
       <a
-        href="/David-stone.pdf"
+        href="/AkilaWijerathna-CV.pdf"
         target="_blank"
         rel="noopener noreferrer"
         download
@@ -83,7 +83,7 @@ const Hero = () => {
         <RiArrowRightUpLine />
       </a>
       <img
-        src={david}
+        src={akila}
         alt={PROFILE.name}
         width={400}
         height={400}
