@@ -38,7 +38,7 @@ export const PROJECTS = [
     id: 1,
     title: "Full Stack School Management App",
     description:
-      "A full-featured e-commerce website built with React and Node.js. It includes user authentication, product management, and an integrated payment gateway.",
+      "A comprehensive school management application built with Next.js and Tailwind CSS. It features separate dashboards for admins, teachers, students, and parents, offering responsive tables, animated charts, and seamless navigation.",
     techStack: ["Next.js", "React", "Node.js", "Express", "Docker"],
     imgSrc: project1,
     link: "https://github.com/Akila-Dev97/Full-Stack-School-Management",
@@ -47,7 +47,7 @@ export const PROJECTS = [
     id: 2,
     title: "Real-Time Chat App",
     description:
-      "A real-time social media app with chat, notifications, and a customizable profile page. Built with React, Firebase, and Redux for state management.",
+      "A dynamic real-time chat application built with the MERN stack, Socket.io, and styled with TailwindCSS and DaisyUI. Features include JWT-based authentication, real-time messaging, online user status, and global state management with Zustand.",
     techStack: ["React", "Node.js", "Express", "MongoDB"],
     imgSrc: project2,
     link: "https://github.com/Akila-Dev97/Chat-App-MERN",
@@ -56,7 +56,7 @@ export const PROJECTS = [
     id: 3,
     title: "React Admin Dashboard",
     description:
-      "A personal portfolio website showcasing projects and skills. Fully responsive and optimized for performance.",
+      "A feature-rich React-based admin dashboard built with Next.js and Tailwind CSS. It includes multiple pages for managing products, users, sales, orders, and analytics.",
     techStack: ["Next.js", "Tailwind CSS", "Node.js", "Express"],
     imgSrc: project3,
     link: "https://github.com/Akila-Dev97/React-Admin-Dashboard",
@@ -65,7 +65,7 @@ export const PROJECTS = [
     id: 4,
     title: "Bulky Web- First Web Store",
     description:
-      "A blogging platform with a content management system, user authentication, and an intuitive editor.",
+      "A e-commerce bookstore built with .NET Core, featuring an MVC architecture, Razor Pages, and Entity Framework Core. It includes a repository pattern for data management, along with features like ViewBag, ViewData, TempData, and integration of Toastr and SweetAlerts for user notifications.",
     techStack: [".NET Framework", "C#", "SQL Server", "ADO.NET"],
     imgSrc: project4,
     link: "https://github.com/Akila-Dev97/FirstWebStore",
@@ -74,7 +74,7 @@ export const PROJECTS = [
     id: 5,
     title: "Billing And Inventory Management System",
     description:
-      "A task management tool with user authentication, reminders, and collaboration features.",
+      "A complete billing and inventory management system developed using Visual Studio 2022, Windows Forms, and MS SQL Server 2019. The system includes modules for users, categories, products, dealers/customers, and transactions.",
     techStack: [".NET Framework", "C#", "SQL Server", "Window Forms"],
     imgSrc: project5,
     link: "https://github.com/Akila-Dev97/BillingAndInventoryManagement",
@@ -100,6 +100,10 @@ export const SKILLS = [
   },
   {
     name: "Node.js",
+    icon: <RiNodeTree className="text-green-500" />,
+  },
+  {
+    name: "Next.js",
     icon: <RiNodeTree className="text-green-500" />,
   },
   {
