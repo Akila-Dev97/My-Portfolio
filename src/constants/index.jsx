@@ -158,18 +158,32 @@ export const EDUCATION = [
         focus on circuit design, power systems, and telecommunications.
         <ul>
           <li>
-            <strong>Robotics - Wireless Hand Motion-Controlled Robot:</strong>{" "}
+            <strong>---------</strong>{" "}
+          </li>
+          <li>
+            <strong> Academic projects </strong>{" "}
+          </li>
+          <li>
+            <strong>---------</strong>{" "}
+          </li>
+          <li>
+            <strong>
+              {" "}
+              # Robotics - Wireless Hand Motion-Controlled Robot:
+            </strong>{" "}
             Developed and implemented a wireless hand motion-controlled robot
             using motion sensors and Arduino microcontrollers.
           </li>
           <li>
-            <strong>Design and Implementation of an Electronic Balance:</strong>{" "}
+            <strong>
+              # Design and Implementation of an Electronic Balance:
+            </strong>{" "}
             Designed and implemented an electronic balance for precise weight
             measurement.
           </li>
           <li>
             <strong>
-              IoT-Based Distribution Transformer Monitoring System
+              # IoT-Based Distribution Transformer Monitoring System
             </strong>
           </li>
         </ul>
