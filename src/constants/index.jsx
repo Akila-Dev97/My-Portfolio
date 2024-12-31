@@ -151,8 +151,34 @@ export const EDUCATION = [
     degree: "Higher National Diploma in Electrical and Electronic Engineering",
     institution: "Advance Technological Institute in Labuduwa",
     duration: "2019 - 2023",
-    description:
-      "Completed a Higher National Diploma in Electrical and Electronic Engineering at the Advanced Technological Institute in Labuduwa, with a focus on circuit design, power systems, and telecommunications.",
+    description: (
+      <>
+        Completed a Higher National Diploma in Electrical and Electronic
+        Engineering at the Advanced Technological Institute in Labuduwa, with a
+        focus on circuit design, power systems, and telecommunications.
+        <ul>
+          <li>
+            <strong>Robotics - Wireless Hand Motion-Controlled Robot:</strong>{" "}
+            Developed and implemented a wireless hand motion-controlled robot
+            using motion sensors and Arduino microcontrollers.
+          </li>
+          <li>
+            <strong>Design and Implementation of an Electronic Balance:</strong>{" "}
+            Designed and implemented an electronic balance for precise weight
+            measurement.
+          </li>
+          <li>
+            <strong>
+              IoT-Based Distribution Transformer Monitoring System
+            </strong>
+          </li>
+        </ul>
+        <p>
+          <strong>Technologies Used:</strong> Arduino, C/C++, Python, Arduino
+          IDE, Bluetooth, Wi-Fi, Git, GitHub, Visual Studio Code
+        </p>
+      </>
+    ),
   },
   /* {
     id: 3,
