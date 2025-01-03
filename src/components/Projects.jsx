@@ -27,7 +27,7 @@ const Projects = () => {
     <section className="pt-16" id="projects" ref={projectRef}>
       <div className="px-4">
         <h2 className="mb-8 text-center text-3xl font-medium lg:text-4xl">
-          Project
+          Projects
         </h2>
         <div className="flex flex-wrap justify-center">
           {PROJECTS.map((project) => (
